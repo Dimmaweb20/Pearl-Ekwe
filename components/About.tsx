@@ -8,13 +8,13 @@ export default function About() {
         <main className='bg-white dark:bg-slate-700 w-full h-[36rem] rounded-3xl mt-2 p-7 md:p-14 overflow-hidden overflow-y-auto lg:overflow-y-hidden hover:overflow-y-auto hover:shadow-lg duration-700'>
             <h1 className={`capitalize font-bold text-4xl flex items-center gap-3 ${luckiest.className}`}>About Me <span className="text-6xl"></span></h1>
             <p className="mt-4">Are you looking for a reliable writing and editing solution without breaking the bank? Do words often confuse you and give you a headache?
-Does writing make you cry because stringing the words together is always overbearing?
-Do you need help with writing and editing perfect content?
-Does your work schedule make it a little difficult for you to get things done?
-<p>Introducing Pearl and Associates, the virtual assistant who can do it all!
-We are revolutionary virtual assistants capable of writing and editing content with unparalleled accuracy and speed.</p>
-<p>Forget spending hours trying to perfect your writing or worrying about grammar and punctuation: we are passionate and excellent creative and technical writers who will save you time and effort while ensuring your work is polished and professional.
-Stay tuned!</p></p>
+                Does writing make you cry because stringing the words together is always overbearing?
+                Do you need help with writing and editing perfect content?
+                Does your work schedule make it a little difficult for you to get things done?
+                <p>Introducing Pearl and Associates, the virtual assistant who can do it all!
+                    We are revolutionary virtual assistants capable of writing and editing content with unparalleled accuracy and speed.</p>
+                <p>Forget spending hours trying to perfect your writing or worrying about grammar and punctuation: we are passionate and excellent creative and technical writers who will save you time and effort while ensuring your work is polished and professional.
+                    Stay tuned!</p></p>
 
             <div className="icons flex gap-3 mt-3 lg:hidden">
                 <Link href={'https://www.facebook.com/pearl.ekwe777'} target="_blank" className="bg-[#F2F7FC] dark:bg-slate-300 p-4 rounded-lg">
@@ -48,7 +48,7 @@ Stay tuned!</p></p>
                     </div>
 
                     <p className="text-sm">We craft compelling proposals and technical documents that clearly communicate your mission and value, designed to capture funders&apos; attention and secure the resources you need to scale your impact.
-</p>
+                    </p>
                 </div>
 
                 <div className="bg-[#F2F7FC] dark:bg-slate-900 p-5 rounded-xl">
