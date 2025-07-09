@@ -7,8 +7,8 @@ import { Raleway, Rubik } from 'next/font/google'
 const raleway = Raleway({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Chidimma Benita Umeayo',
-  description: 'This is Chidimma Benita Umeayo official website',
+  title: 'Pearl Ekwe',
+  description: 'This is Pearl Ekwe official website',
 }
 
 export default function RootLayout({
