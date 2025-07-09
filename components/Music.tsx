@@ -4,7 +4,7 @@ import { Luckiest_Guy } from 'next/font/google'
 import Image from 'next/image'
 import Link from 'next/link'
 import { useRef, useState } from 'react'
-import { FiDownloadCloud, FiLink2, FiMusic, FiPlay, FiStopCircle } from 'react-icons/fi'
+import { FiDownloadCloud, FiMusic } from 'react-icons/fi'
 import Lottie from 'lottie-react'
 import pausebutton from '@/animations/pausebutton.json'
 const luckiest = Luckiest_Guy({ subsets: ['latin'], weight: ['400'] })

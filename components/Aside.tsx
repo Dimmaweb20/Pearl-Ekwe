@@ -1,9 +1,5 @@
-import Image from "next/image";
-import { FiDownloadCloud, FiFacebook, FiGithub, FiInstagram, FiLinkedin, FiMail, FiMapPin, FiPhone, FiTwitter } from 'react-icons/fi'
-import { Luckiest_Guy, Pacifico } from 'next/font/google'
+import { FiDownloadCloud, FiFacebook, FiInstagram, FiLinkedin, FiMail, FiMapPin, FiPhone } from 'react-icons/fi'
 import Link from "next/link";
-const luckiest = Luckiest_Guy({ subsets: ['latin'], weight: ['400'] })
-const pacifico = Pacifico({ subsets: ['latin'], weight: ['400'] })
 
 export default function Aside() {
     return (

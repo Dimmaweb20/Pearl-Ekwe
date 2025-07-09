@@ -4,7 +4,7 @@ import { Pacifico } from 'next/font/google'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 const pacifico = Pacifico({ subsets: ['latin'], weight: ['400'] })
-import { FiBriefcase, FiFileText, FiHome, FiMessageCircle, FiMusic } from 'react-icons/fi'
+import { FiBriefcase, FiFileText, FiHome, FiMessageCircle } from 'react-icons/fi'
 import {  IoGlasses } from 'react-icons/io5'
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";

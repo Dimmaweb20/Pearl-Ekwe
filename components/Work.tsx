@@ -1,7 +1,7 @@
-import { Luckiest_Guy, Pacifico } from 'next/font/google'
+import { Luckiest_Guy } from 'next/font/google'
 import Image from 'next/image'
 import Link from 'next/link'
-import { FiGithub, FiLink2, FiPocket } from 'react-icons/fi'
+import { FiLink2 } from 'react-icons/fi'
 const luckiest = Luckiest_Guy({ subsets: ['latin'], weight: ['400'] })
 
 const Work = () => {
