@@ -14,7 +14,7 @@ const Work = () => {
 
             <div className="grid lg:grid-cols-2 gap-5 mt-5">
                 <div className="bg-[#FFEBD1] p-5 rounded-xl">
-                    <Image className='hover:scale-150 transition duration-500 rounded-lg mb-4' src={'/baby.jpg'} width={10000} height={2} alt='Fact App' />
+                    <img src="/baby.jpg" alt="Fact App" className='hover:scale-150 transition duration-500 rounded-lg mb-4' width={10000} height={2} />
 
                     <div className="flex justify-between items-center">
                         <div className="top mt-2 flex items-center gap-2 hover:translate-y-1 transition duration-700 hover:-skew-x-6">
@@ -53,8 +53,8 @@ const Work = () => {
                         <Link href={'https://www.linkedin.com/pulse/when-one-mother-stands-family-rises-maternal-care-in-africa-amgvf'} target='_blank'></Link>
                     </div>
                 </div>
-                
-                
+
+
                 <div className="bg-[#FFEBD1] p-5 rounded-xl">
                     <Image className='hover:scale-150 transition duration-500 rounded-lg mb-4' src={'/nexus.jpg'} width={10000} height={2} alt='asu' />
 
