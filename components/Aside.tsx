@@ -1,4 +1,4 @@
-import { FiDownloadCloud, FiFacebook, FiInstagram, FiLinkedin, FiMail, FiMapPin, FiPhone } from 'react-icons/fi'
+import { FiDownloadCloud, FiFacebook, FiInstagram, FiLinkedin, FiMail, FiMapPin, FiPenTool, FiPhone } from 'react-icons/fi'
 import Link from "next/link";
 
 export default function Aside() {
@@ -22,6 +22,9 @@ export default function Aside() {
                 </Link>
                 <Link href={'https://www.instagram.com/p.e.ar.l?igsh=M29nOWppNzY0MHBk'} target="_blank" className="bg-[#F2F7FC] dark:bg-slate-300 p-4 rounded-lg">
                     <FiInstagram size={16} className='text-indigo-500' />
+                </Link>
+                <Link href={'https://medium.com/@creativepulse247'} target="_blank" className="bg-[#F2F7FC] dark:bg-slate-300 p-4 rounded-lg">
+                    <FiPenTool size={16} className='text-indigo-500' />
                 </Link>
             </div>
 
