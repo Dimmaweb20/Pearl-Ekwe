@@ -1,13 +1,11 @@
 'use client'
 
-import { Luckiest_Guy, Pacifico } from 'next/font/google'
+import { Pacifico } from 'next/font/google'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
-import { useEffect } from 'react'
-const luckiest = Luckiest_Guy({ subsets: ['latin'], weight: ['400'] })
 const pacifico = Pacifico({ subsets: ['latin'], weight: ['400'] })
 import { FiBriefcase, FiFileText, FiHome, FiMessageCircle, FiMusic } from 'react-icons/fi'
-import { IoGlassesOutline, IoGlasses } from 'react-icons/io5'
+import {  IoGlasses } from 'react-icons/io5'
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import { toast } from 'react-toastify'
