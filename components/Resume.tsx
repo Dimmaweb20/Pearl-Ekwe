@@ -36,7 +36,7 @@ export default function Resume() {
                         <h6 className="font-bold text-2xl">Writing & Storytelling</h6>
                     </div>
 
-                    <p className="text-sm">We blend the precision of technical writing with the emotional pull of creative storytelling. Whether it's a grant proposal, a project report, or a social impact story, we write with purpose, capturing both logic and heart. Our words don&apos;t just inform; they connect, inspire, and convert.</p>
+                    <p className="text-sm">We blend the precision of technical writing with the emotional pull of creative storytelling. Whether it&apos;s a grant proposal, a project report, or a social impact story, we write with purpose, capturing both logic and heart. Our words don&apos;t just inform; they connect, inspire, and convert.</p>
                 </div>
 
                 <div className="bg-[#F2F7FC] dark:bg-slate-900 p-5 rounded-xl">

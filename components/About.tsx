@@ -15,7 +15,7 @@ Does your work schedule make it a little difficult for you to get things done?
 <p>Introducing Pearl and Associates, the virtual assistant who can do it all!
 We are revolutionary virtual assistants capable of writing and editing content with unparalleled accuracy and speed.</p>
 <p>Forget spending hours trying to perfect your writing or worrying about grammar and punctuation: we are passionate and excellent creative and technical writers who will save you time and effort while ensuring your work is polished and professional.
-Stay tuned!</p></p>
+Stay tuned!</p></p>
 
             <div className="icons flex gap-3 mt-3 lg:hidden">
                 <Link href={'https://www.facebook.com/pearl.ekwe777'} target="_blank" className="bg-[#F2F7FC] dark:bg-slate-300 p-4 rounded-lg">
@@ -68,7 +68,7 @@ Stay tuned!</p></p>
                         <h6 className="font-bold text-2xl">Visual Content</h6>
                     </div>
 
-                    <p className="text-sm">We produce high-quality, eye-catching visuals that tell your story, amplify your message, and stop the scroll—because good design isn't just beautiful, it's powerful communication.</p>
+                    <p className="text-sm">We produce high-quality, eye-catching visuals that tell your story, amplify your message, and stop the scroll—because good design isn&apos;t just beautiful, it&apos;s powerful communication.</p>
                 </div>
 
                 <div className="bg-[#ffff] p-5 rounded-xl">
@@ -77,7 +77,7 @@ Stay tuned!</p></p>
                         <h6 className="font-bold text-2xl">Creative Writing</h6>
                     </div>
 
-                    <p className="text-sm">Whether it's brand storytelling, campaign messaging, or meaningful narratives, we turn ideas into words that move people because emotion and authenticity are what truly resonate. </p>
+                    <p className="text-sm">Whether it&apos;s brand storytelling, campaign messaging, or meaningful narratives, we turn ideas into words that move people because emotion and authenticity are what truly resonate. </p>
                 </div>
 
                 <div className="bg-[#ffff] p-5 rounded-xl">
