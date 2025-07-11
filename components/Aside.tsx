@@ -57,7 +57,7 @@ export default function Aside() {
                 <div className="w-full flex justify-center">
                     <button className="w-44 mt-4 flex items-center gap-2 p-3 bg-gradient-to-r from-[#FF9C1A] to-[#EC1B09] rounded-full justify-center text-[#F2F5F9] text-sm hover:scale-105 hover:shadow-lg border-2 duration-700">
                         <FiDownloadCloud className='text-white' />
-                        <Link href={'/Pearl&AssociatesBrochure.pdf'} target="_blank" className="capitalize rounded-full text-sm">Download Resume</Link>
+                        <Link href={'/Pearl&AssociatesBrochure.pdf'} target="_blank" className="capitalize rounded-full text-sm">Download Brochure</Link>
                     </button>
                 </div>
             </div>
