@@ -20,12 +20,13 @@ export default function Aside() {
                 <Link href={'https://www.linkedin.com/in/pearl-ekwe-609292210/'} target="_blank" className="bg-[#F2F7FC] dark:bg-slate-300 p-4 rounded-lg">
                     <FiLinkedin size={16} className='text-sky-500' />
                 </Link>
-                <Link href={'https://www.instagram.com/p.e.ar.l?igsh=M29nOWppNzY0MHBk'} target="_blank" className="bg-[#F2F7FC] dark:bg-slate-300 p-4 rounded-lg">
-                    <FiInstagram size={16} className='text-indigo-500' />
-                </Link>
                 <Link href={'https://medium.com/@creativepulse247'} target="_blank" className="bg-[#F2F7FC] dark:bg-slate-300 p-4 rounded-lg">
                     <FiPenTool size={16} className='text-indigo-500' />
                 </Link>
+                <Link href={'https://www.instagram.com/p.e.ar.l?igsh=M29nOWppNzY0MHBk'} target="_blank" className="bg-[#F2F7FC] dark:bg-slate-300 p-4 rounded-lg">
+                    <FiInstagram size={16} className='text-indigo-500' />
+                </Link>
+                
             </div>
 
             <div className="bg-[#F2F7FC] dark:bg-slate-900 w-full mt-4 p-5 flex flex-col items-start rounded-2xl divide-y">
@@ -56,7 +57,7 @@ export default function Aside() {
                 <div className="w-full flex justify-center">
                     <button className="w-44 mt-4 flex items-center gap-2 p-3 bg-gradient-to-r from-[#FF9C1A] to-[#EC1B09] rounded-full justify-center text-[#F2F5F9] text-sm hover:scale-105 hover:shadow-lg border-2 duration-700">
                         <FiDownloadCloud className='text-white' />
-                        <Link href={'/PearlCV.pdf'} target="_blank" className="capitalize rounded-full text-sm">Download Resume</Link>
+                        <Link href={'/Pearl&AssociatesBrochure.pdf'} target="_blank" className="capitalize rounded-full text-sm">Download Resume</Link>
                     </button>
                 </div>
             </div>
